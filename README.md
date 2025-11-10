@@ -1,2 +1,2 @@
-# DQN
+# reinforcement_learning
 DQN
